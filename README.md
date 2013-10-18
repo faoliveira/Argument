@@ -26,7 +26,7 @@ Installation
 
 And Everything
 --------------
-You can contribute by reporting issues, refactoring code and using the theme :) Remember that the theme has [WTFPL][4] license, so you can do anything you want.
+You can contribute by reporting issues, refactoring code and using the theme :) Remember that theme has [WTFPL][4] license, so you can do anything you want.
 
 If you'd like to give me credit somewhere on your blog or tweet a shout out to [@faoliveira][5], or you can just sent me a hello, that would be  sweet.
 
