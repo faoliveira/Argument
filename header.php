@@ -58,7 +58,7 @@
 				<aside class="sidebar columns fivecol" role="complementary">
 				
 					<div class="logo">
-						<a href="<?php echo home_url(); ?>" rel="nofollow" title="Humanos Unidos pelo Entretenimento²"><img src="<?php echo get_template_directory_uri(); ?>/library/images/hue.png" class="logo" alt="Humanos Unidos pelo Entretenimento²"></a>
+						<a href="<?php echo home_url(); ?>" rel="nofollow" title="Argument"><img src="<?php echo get_template_directory_uri(); ?>/library/images/logo.png" class="logo" alt="Argument"></a>
 					</div><!-- END .logo -->
 					
 					<nav role="navigation">
