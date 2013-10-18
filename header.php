@@ -18,15 +18,27 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-		<!-- icons & favicons (for more: http://www.jonathantneal.com/blog/understand-the-favicon/) -->
-		<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/library/images/apple-icon-touch.png">
-		<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/favicon.png">
+		<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/favicon.ico">
+			<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/favicon.ico">
 		<![endif]-->
 		<!-- or, set /favicon.ico for IE10 win -->
-		<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="<?php echo get_template_directory_uri(); ?>/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileColor" content="#2c3036">
+		<meta name="msapplication-TileImage" content="<?php echo get_template_directory_uri(); ?>/library/icon/images/win8-tile-icon.png">
+		<!-- non-retina iPhone pre iOS 7 -->
+		<link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/icon57.png" sizes="57x57">
+		<!-- non-retina iPad pre iOS 7 -->
+		<link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/icon72.png" sizes="72x72">
+		<!-- non-retina iPad iOS 7 -->
+		<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/icon76.png" sizes="76x76">
+		<!-- retina iPhone pre iOS 7 -->
+		<link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/icon114.png" sizes="114x114">
+		<!-- retina iPhone iOS 7 -->
+		<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/icon120.png" sizes="120x120">
+		<!-- retina iPad pre iOS 7 -->
+		<link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/icon144.png" sizes="144x144">
+		<!-- retina iPad iOS 7 -->
+		<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/library/images/icon/icon152.png" sizes="152x152">
 
 		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
