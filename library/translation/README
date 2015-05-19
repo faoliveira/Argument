@@ -2,14 +2,16 @@ This folder contains the language-files for the theme
 
 A function in `functions.php` identifies the LOCALE (e.g. da_DK) of your WordPress installation. 
 
-**How to translate bones to your language**
+How to translate bones to your language
+---------
 
   1 Make a copy of `default.po` an change the filename to your LOCALE.po (e.g. `da_DK.mo`)
   2 Use [poedit](http://www.poedit.net/ "home of poedit") to edit your po-file.
   3 When saving your po-file, poedit will create/update a corresponding mo-file.
   4 Please commit both your po- and mo-file. 
 
-**More**
+More
+---------
 
 http://codex.wordpress.org/I18n_for_WordPress_Developers
 
