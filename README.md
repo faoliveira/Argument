@@ -16,13 +16,8 @@ Installation
 ------------
 [Download it][2] or clone the git repo. Install [Grunt][3] and then install the dependencies
 
-    npm install grunt-contrib-clean --save-dev
-    npm install grunt-contrib-jshint --save-dev
-    npm install grunt-contrib-uglify --save-dev
-    npm install grunt-contrib-watch --save-dev
-    npm install grunt-recess --save-dev
-    npm install grunt-contrib-imagemin --save-dev
-    
+    npm install
+
 
 And Everything
 --------------
